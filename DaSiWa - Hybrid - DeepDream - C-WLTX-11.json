@@ -10995,7 +10995,7 @@
   "groups": [
     {
       "id": 1,
-      "title": "Video Output Final",
+      "title": "视频最终输出",
       "bounding": [
         17400,
         3010,
@@ -11008,7 +11008,7 @@
     },
     {
       "id": 8,
-      "title": "WAN22 CLIP / VAE",
+      "title": "WAN22 CLIP / VAE 模型",
       "bounding": [
         1390,
         3350,
@@ -11021,7 +11021,7 @@
     },
     {
       "id": 9,
-      "title": "WAN22 I2V SAFETENSOR",
+      "title": "WAN22 图生视频 SAFETENSOR 模型",
       "bounding": [
         1390,
         2850,
@@ -11034,7 +11034,7 @@
     },
     {
       "id": 28,
-      "title": "NAG",
+      "title": "归一化注意力引导 (NAG)",
       "bounding": [
         5810,
         2890,
@@ -11047,7 +11047,7 @@
     },
     {
       "id": 29,
-      "title": "T02# FLF2V",
+      "title": "T02# 首末帧生视频 (FLF2V)",
       "bounding": [
         9260,
         2920,
@@ -11060,7 +11060,7 @@
     },
     {
       "id": 30,
-      "title": "T01# I2V",
+      "title": "T01# 图生视频 (I2V)",
       "bounding": [
         7680,
         2920,
@@ -11073,7 +11073,7 @@
     },
     {
       "id": 32,
-      "title": "Frames logic",
+      "title": "帧数逻辑",
       "bounding": [
         -1070,
         3740,
@@ -11086,7 +11086,7 @@
     },
     {
       "id": 41,
-      "title": "Basic settings",
+      "title": "基础设置",
       "bounding": [
         -1080,
         4350,
@@ -11099,7 +11099,7 @@
     },
     {
       "id": 7,
-      "title": "P08# Watermark",
+      "title": "P08# 水印",
       "bounding": [
         16570,
         3030,
@@ -11112,7 +11112,7 @@
     },
     {
       "id": 12,
-      "title": "P07# Sound Mark",
+      "title": "P07# 声音标记",
       "bounding": [
         15880,
         3020,
@@ -11125,7 +11125,7 @@
     },
     {
       "id": 64,
-      "title": "P05# Interpolation",
+      "title": "P05# 插帧",
       "bounding": [
         14610,
         3030,
@@ -11138,7 +11138,7 @@
     },
     {
       "id": 65,
-      "title": "P02# Upscale 2x (fast, low VRAM)",
+      "title": "P02# 放大 2 倍(快速,低显存)",
       "bounding": [
         12840,
         3030,
@@ -11151,7 +11151,7 @@
     },
     {
       "id": 81,
-      "title": "P04# Upscale RTX SR 2x",
+      "title": "P04# RTX 超分辨率放大 2 倍",
       "bounding": [
         14080,
         3030,
@@ -11164,7 +11164,7 @@
     },
     {
       "id": 130,
-      "title": "P03# Upscale /w Model (slow, high VRAM)",
+      "title": "P03# 模型放大(慢速,高显存)",
       "bounding": [
         13570,
         3030,
@@ -11177,7 +11177,7 @@
     },
     {
       "id": 67,
-      "title": "P01# Color match",
+      "title": "P01# 颜色匹配",
       "bounding": [
         12190,
         3030,
@@ -11190,7 +11190,7 @@
     },
     {
       "id": 32,
-      "title": "Scaler",
+      "title": "缩放器",
       "bounding": [
         -1070,
         3090,
@@ -11203,7 +11203,7 @@
     },
     {
       "id": 131,
-      "title": "interpolation split logic",
+      "title": "插帧分割逻辑",
       "bounding": [
         15500,
         3030,
@@ -11216,7 +11216,7 @@
     },
     {
       "id": 132,
-      "title": "fps v2v",
+      "title": "FPS 视频转视频 (V2V)",
       "bounding": [
         14610,
         3600,
@@ -11229,7 +11229,7 @@
     },
     {
       "id": 146,
-      "title": "LTX23 Prompts",
+      "title": "LTX23 提示词",
       "bounding": [
         4040,
         6480,
@@ -11242,7 +11242,7 @@
     },
     {
       "id": 147,
-      "title": "📚 Prompt Enhancer",
+      "title": "📚 提示词增强",
       "bounding": [
         2650,
         6480,
@@ -11255,7 +11255,7 @@
     },
     {
       "id": 148,
-      "title": "⚙️ Chunking",
+      "title": "⚙️ 分块处理",
       "bounding": [
         4200,
         2900,
@@ -11268,7 +11268,7 @@
     },
     {
       "id": 150,
-      "title": "LTX23 Clip VAE, Scalers",
+      "title": "LTX23 CLIP / VAE 与缩放器",
       "bounding": [
         1390,
         4980,
@@ -11281,7 +11281,7 @@
     },
     {
       "id": 151,
-      "title": "LTX23 SAFETENSOR",
+      "title": "LTX23 SAFETENSOR 模型",
       "bounding": [
         1370,
         3970,
@@ -11294,7 +11294,7 @@
     },
     {
       "id": 157,
-      "title": "🔮 SageAttention",
+      "title": "🔮 SageAttention 优化",
       "bounding": [
         2700,
         2900,
@@ -11307,7 +11307,7 @@
     },
     {
       "id": 159,
-      "title": "FP16 Accumulation",
+      "title": "FP16 累加",
       "bounding": [
         3790,
         2900,
@@ -11320,7 +11320,7 @@
     },
     {
       "id": 163,
-      "title": "NAG",
+      "title": "归一化注意力引导 (NAG)",
       "bounding": [
         5810,
         3370,
@@ -11333,7 +11333,7 @@
     },
     {
       "id": 164,
-      "title": "🔮 SageAttention",
+      "title": "🔮 SageAttention 优化",
       "bounding": [
         2700,
         3380,
@@ -11346,7 +11346,7 @@
     },
     {
       "id": 166,
-      "title": "FP16 Accumulation",
+      "title": "FP16 累加",
       "bounding": [
         3790,
         3380,
@@ -11359,7 +11359,7 @@
     },
     {
       "id": 167,
-      "title": "NAG",
+      "title": "归一化注意力引导 (NAG)",
       "bounding": [
         5810,
         3840,
@@ -11372,7 +11372,7 @@
     },
     {
       "id": 168,
-      "title": "🔮 SageAttention",
+      "title": "🔮 SageAttention 优化",
       "bounding": [
         2700,
         3850,
@@ -11385,7 +11385,7 @@
     },
     {
       "id": 170,
-      "title": "FP16 Accumulation",
+      "title": "FP16 累加",
       "bounding": [
         3790,
         3850,
@@ -11398,7 +11398,7 @@
     },
     {
       "id": 171,
-      "title": "F01# 🔮 SageAttention",
+      "title": "F01# 🔮 SageAttention 优化",
       "bounding": [
         2720,
         4330,
@@ -11411,7 +11411,7 @@
     },
     {
       "id": 172,
-      "title": "F03# 🚫 NAG",
+      "title": "F03# 🚫 归一化注意力引导 (NAG)",
       "bounding": [
         5810,
         4310,
@@ -11424,7 +11424,7 @@
     },
     {
       "id": 173,
-      "title": "🎥➡️🎥 V2V",
+      "title": "🎥➡️🎥 视频转视频 (V2V)",
       "bounding": [
         7650,
         4150,
@@ -11437,7 +11437,7 @@
     },
     {
       "id": 174,
-      "title": "🎞️ 2x FPS",
+      "title": "🎞️ 2 倍帧率",
       "bounding": [
         10720,
         5230,
@@ -11450,7 +11450,7 @@
     },
     {
       "id": 175,
-      "title": "AT01# 🗣️ Model Audio",
+      "title": "AT01# 🗣️ 音频模型",
       "bounding": [
         7650,
         5600,
@@ -11463,7 +11463,7 @@
     },
     {
       "id": 176,
-      "title": "AT02# 🔊 Audio Input",
+      "title": "AT02# 🔊 音频输入",
       "bounding": [
         8240,
         5600,
@@ -11476,7 +11476,7 @@
     },
     {
       "id": 178,
-      "title": "Audio switch",
+      "title": "音频开关",
       "bounding": [
         9170,
         5610,
@@ -11489,7 +11489,7 @@
     },
     {
       "id": 180,
-      "title": "⚙️ Chunking",
+      "title": "⚙️ 分块处理",
       "bounding": [
         4190,
         3430,
@@ -11502,7 +11502,7 @@
     },
     {
       "id": 181,
-      "title": "⚙️ Chunking",
+      "title": "⚙️ 分块处理",
       "bounding": [
         4190,
         3960,
@@ -11515,7 +11515,7 @@
     },
     {
       "id": 182,
-      "title": "F02# ⚙️ Chunking",
+      "title": "F02# ⚙️ 分块处理",
       "bounding": [
         4190,
         4500,
@@ -11528,7 +11528,7 @@
     },
     {
       "id": 185,
-      "title": "WAN22 Prompts",
+      "title": "WAN22 提示词",
       "bounding": [
         4050,
         5790,
@@ -11541,7 +11541,7 @@
     },
     {
       "id": 191,
-      "title": "FPS final",
+      "title": "FPS 最终输出",
       "bounding": [
         15510,
         3360,
